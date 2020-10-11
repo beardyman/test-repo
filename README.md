@@ -6,12 +6,6 @@ master change
 
 changes morehi
 
-h
-h
-h
-h
-h
-
 
 what up!?!??!
 hi

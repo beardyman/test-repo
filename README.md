@@ -3,16 +3,6 @@ just temp
 
 master change
 
-
-changes morehi
-
-h
-h
-h
-h
-h
-
-
 what up!?!??!
 hi
   one more time
@@ -21,4 +11,3 @@ hi
 
 oh hai
 
-develop

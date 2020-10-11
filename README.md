@@ -3,10 +3,6 @@ just temp
 
 master change
 
-
-changes morehi
-
-
 what up!?!??!
 hi
   one more time

@@ -4,7 +4,7 @@
   "description": "hi hi 2",
   "main": "index.js",
   "bin": {
-    "test": "bin/test.sh"
+    "testscript": "bin/test.sh"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

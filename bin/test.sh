@@ -1,3 +1,3 @@
 
 
-echo oh hey $1
+echo oh hey $@

@@ -2,7 +2,6 @@
 	"defaultBase": "main",
 	"defaultStrategy": "merge",
 	"defaultRemote": "origin",
-	"alwaysPush": false,
 	"workflows": {
 		"feature": {
 			"from": "develop",

@@ -1,13 +1,13 @@
 {
   "name": "test-repo",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "hi hi 2",
   "main": "index.js",
   "bin": {
     "testscript": "bin/test.sh"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "",
     "version": "np patch --no-publish --no-release-draft --message='Version Bump: %s'"
   },
   "repository": {

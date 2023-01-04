@@ -30,7 +30,8 @@
       "requireCleanWorkingDir": false
     },
     "npm": {
-      "publish": false
+      "publish": false,
+      "skipChecks": true
     }
   }
 }

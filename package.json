@@ -27,8 +27,7 @@
   },
   "release-it": {
     "npm": {
-      "publish": false,
-      "versionArgs": "patch"
+      "publish": false
     }
   }
 }

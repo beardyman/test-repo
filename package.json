@@ -9,7 +9,7 @@
   "scripts": {
     "test": "",
     "version-old": "np patch --no-publish --yolo --no-release-draft --message='Version Bump: v%s'",
-    "version": "release-it'"
+    "version": "release-it"
   },
   "repository": {
     "type": "git",

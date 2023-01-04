@@ -26,6 +26,11 @@
     "release-it": "^15.6.0"
   },
   "release-it": {
+    "git": {
+      "commit": true,
+      "tag": true,
+      "tagAnnotation": "Release ${version}"
+    },
     "npm": {
       "publish": false
     }

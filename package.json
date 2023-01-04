@@ -27,9 +27,7 @@
   },
   "release-it": {
     "git": {
-      "commit": true,
-      "tag": true,
-      "tagAnnotation": "Release ${version}"
+      "requireCleanWorkingDir": false
     },
     "npm": {
       "publish": false

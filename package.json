@@ -1,6 +1,6 @@
 {
   "name": "test-repo",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "hi hi 2",
   "main": "index.js",
   "bin": {
@@ -8,8 +8,7 @@
   },
   "scripts": {
     "test": "",
-    "version-old": "np patch --no-publish --yolo --no-release-draft --message='Version Bump: v%s'",
-    "version": "release-it"
+    "release": "release-it --ci"
   },
   "repository": {
     "type": "git",
